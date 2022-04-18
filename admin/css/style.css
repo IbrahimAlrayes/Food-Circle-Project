@@ -1,0 +1,40 @@
+.container{
+    display: flex;
+    text-align: center;
+}
+
+#welcome {
+  text-align: left;
+}
+#topJump{
+  margin-top: 50px
+}
+
+#landing {
+  width: inherit;
+}
+
+h1 {
+  text-align: center;
+}
+
+body {
+  background-image: url(../pictures/cool-background.svg);
+  background-size: cover;
+
+}
+
+.card {
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+}
+
+p {
+  text-align: left;
+}
+
+#map {
+  height: 400px;
+  width: 100%;
+}
